@@ -97,8 +97,18 @@ Agents:
 - crewai ✔️
 - langgraph ✔️
 
+AgentOps
+- composio
+
 RAG:
-- 
+- langchain ✔️
+- llamaindex
 
+Evaluation:
+- ragas ✔️
+- giskard 
+- phoenix 
 
+Deduplication:
+- SemHash
 
