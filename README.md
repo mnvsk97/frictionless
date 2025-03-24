@@ -13,6 +13,11 @@ Communications:
 - msg91 ✔️
 - twilio ✔️
 
+Email
+- ses (manage)
+- resend
+- postmark
+
 Backend:
 - health check endpoint ✔️
 - cors config ✔️
@@ -27,6 +32,7 @@ Test:
 
 Database:
 - supabase ✔️
+- mongodb
 
 Containers:
 - Dockerfile ✔️
@@ -40,6 +46,7 @@ CI/CD:
 
 Queueing:
 - qstash ✔️
+- celery + redis
 
 Infra:
 - supabase edge functions
@@ -47,6 +54,7 @@ Infra:
 - Digital Ocean
 - railway
 - render
+- coolify + hetzner
 
 Front end using python
 - Reflex
@@ -67,6 +75,7 @@ Libraries:
 GPU and compute:
 - modal
 - replicate
+- fal.ai
 
 LLM inference as a saas API:
 - together ✔️
@@ -74,6 +83,7 @@ LLM inference as a saas API:
 - openrouter ✔️
 - cerebras ✔️
 - huggingface 
+- Vercel
 
 Finetuning
 - together ai ✔️
@@ -96,6 +106,9 @@ embeddings library:
 Agents:
 - crewai ✔️
 - langgraph ✔️
+
+No code agents
+-n89
 
 AgentOps
 - composio
